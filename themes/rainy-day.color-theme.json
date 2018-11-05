@@ -1,6 +1,18 @@
 /*
-Color Palette:
+-- Color Palette --
+* Base *
+Base: 2e3440
 
+** Base variations **
+Base 1: 2a2f38
+Base 2: 242830
+Base 3: 1e2229
+
+* Accents *
+White: fff
+Off white: ccc
+Black: 000
+Dark grey: 222222
 */
 
 {
@@ -9,12 +21,36 @@ Color Palette:
   // UI colors -----
   "colors": {
     // Activity Bar
-    "activityBarBadge.background": "#00ff00",
+    "activityBar.background": "#242830",
+    "activityBar.border": "#222222",
+    "activityBarBadge.background": "#2e3440",
     // Editor
-    "editor.background": "#000",
-    "editor.foreground": "#fff",
+    "editor.background": "#2e3440",
+    "editor.foreground": "#ccc",
+    "editorGroup.border": "#222222",
+    "editorGroupHeader.tabsBackground": "#242830",
+
+    // Menus
+    "menu.background": "#242830",
+    "menu.selectionBackground": "#2e3440",
+    "menubar.selectionBackground": "#2e3440",
     // Sidebar
-    "sideBarTitle.foreground": "#00ff00"
+    "sideBar.background": "#2a2f38",
+    "sideBar.border": "#222222",
+    "sideBarSectionHeader.background": "#1e2229",
+    "sideBarTitle.foreground": "#fff",
+    // Statusbar
+    "statusBar.background": "#242830",
+    // Tabs
+    "tab.inactiveBackground": "#1e2229",
+    "tab.inactiveForeground": "#ccc",
+    "tab.activeBorder": "#222222",
+    // Titlebar
+    "titleBar.activeBackground": "#242830",
+    "titleBar.activeForeground": "#fff",
+    "titleBar.border": "#222222",
+    "titleBar.inactiveBackground": "#2a2f38",
+    "titleBar.inactiveForeground": "#ccc",
   },
   // Editor/syntax colors -----
   "tokenColors": [
