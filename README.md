@@ -2,6 +2,8 @@
 
 Theme for Visual Studio Code using a desaturated colour palette
 
+## Color Palette
+
 ## Screenshots
 
 ## Installation
