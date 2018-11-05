@@ -2,7 +2,7 @@
   "name": "rainy-day",
   "displayName": "Rainy Day",
   "description": "Visual Studio Code theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "sho",
   "engines": {
     "vscode": "^1.28.0"
