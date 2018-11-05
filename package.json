@@ -1,14 +1,35 @@
 {
   "name": "rainy-day",
   "displayName": "Rainy Day",
-  "description": "Visual Studio Code theme",
+  "description": "Visual Studio Code theme with a desaturated color palette",
   "version": "1.0.0",
   "publisher": "sho",
+  "author": {
+    "name": "Simon Ho"
+  },
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.28.0"
   },
+  "bugs": {
+    "url": "https://github.com/sho-87/vscode-rainy-day/issues",
+    "email": "simonho213@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sho-87/vscode-rainy-day.git"
+  },
+  "homepage": "https://github.com/sho-87/vscode-rainy-day",
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "desaturated",
+    "contrast"
+  ],
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [
