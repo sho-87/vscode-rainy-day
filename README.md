@@ -12,7 +12,7 @@ Theme for [Visual Studio Code](https://code.visualstudio.com/) using a desaturat
 2. Search for Rainy Day
 3. Click Install
 4. Click Reload
-5. File > Preferences > Color Theme > Rainy Day
+5. Set color theme (File > Preferences > Color Theme > Rainy Day)
 
 ## Custom Edits
 
