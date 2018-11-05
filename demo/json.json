@@ -1,0 +1,42 @@
+{
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "on",
+
+  "editor.fontSize": 14,
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.pyc": true
+  },
+
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+
+  "projectManager.any.baseFolders": ["d:\\", "$home\\"],
+
+  "TodoParser": {
+    "exclude": [],
+    "folderExclude": ["node_modules", ".vscode"],
+    "autoDefaultMarkers": true
+  },
+
+  "vim.easymotionMarkerBackgroundColor": "#ff0000",
+  "vim.searchHighlightColor": "rgba(255, 255, 0, 0.3)",
+  "vim.statusBarColorControl": false,
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<esc>"],
+      "after": [],
+      "commands": [
+        {
+          "command": ":nohl"
+        }
+      ]
+    }
+  ]
+}
