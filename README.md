@@ -44,8 +44,6 @@ Feel free to either:
 
 - Add to the current language files by including more use cases (they're currently quite sparse)
 
-**Note**: Python files should be formatted using [Black](https://github.com/ambv/black). Web-based languages (e.g. Javascript, Typescript) should be formatted using [Prettier](https://github.com/prettier/prettier). The default formatter configuration should be used in both cases.
-
 ## Feedback
 
 If you have any problems or feature requests, please [open an issue](https://github.com/sho-87/vscode-rainy-day/issues/new)
