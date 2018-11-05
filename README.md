@@ -1,6 +1,6 @@
 # Rainy Day
 
-Theme for Visual Studio Code using a desaturated colour palette
+Theme for [Visual Studio Code](https://code.visualstudio.com/) using a desaturated colour palette
 
 ## Color Palette
 
@@ -8,13 +8,19 @@ Theme for Visual Studio Code using a desaturated colour palette
 
 ## Installation
 
+1. Open Extensions sidebar panel in VS Code (View > Extensions)
+2. Search for Rainy Day
+3. Click Install
+4. Click Reload
+5. File > Preferences > Color Theme > Rainy Day
+
 ## Custom Edits
 
-You can make custom edits to the theme in your VSCode `settings.json` file.
+You can make custom edits to the theme in your VS Code `settings.json` file.
 
 For an overview of scopes and syntax highlighting changes, see [this](https://www.sublimetext.com/docs/3/scope_naming.html) or [this](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers#_textmate-theme-rules)
 
-For a VSCode color reference (primary UI elements), see [this](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+For a VS Code color reference (primary UI elements), see [this](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 
 ## Contribute
 
