@@ -44,6 +44,6 @@ If you have any problems or feature requests, please [open an issue](https://git
 
 For problems and bug reports, example code and a screenshot of the issue would be extremely useful
 
-## Changelog
+## Change Log
 
-You can view the changelog [here](CHANGELOG.md)
+You can view the change log [here](CHANGELOG.md)
