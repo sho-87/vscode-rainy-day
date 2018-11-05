@@ -1,0 +1,22 @@
+{
+  "name": "rainy-day",
+  "displayName": "Rainy Day",
+  "description": "Visual Studio Code theme",
+  "version": "0.0.1",
+  "publisher": "sho",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rainy Day",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rainy-day.color-theme.json"
+      }
+    ]
+  }
+}
