@@ -40,7 +40,7 @@ The files in the `/demo` directory are used to test the color theme across diffe
 
 Feel free to either:
 
-- Add new languages for testing (filename format: `<language_name>.<ext>`) or
+- Add new language files for testing (filename format: `<language_name>.<ext>`) or
 
 - Add to the current language files by including more use cases (they're currently quite sparse)
 
